@@ -37,9 +37,6 @@ int main() {
     printVector(numVec);
     
     return 0;
-
-    
-    return 0;
 }
 
 void insertionSortRecursive (vector <int> _unsorted, int size)
